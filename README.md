@@ -9,7 +9,7 @@ This application uses the **OpenAI gym** API.
 ```
 pip install gym
 ```
-Check out the documentation for the API [here](https://gym.openai.com/docs/)
+Check out the documentation for the API [here](https://gym.openai.com/docs/).
 External Python libraries **tflearn** and **numpy** were also used.
 ```
 pip install tflearn
