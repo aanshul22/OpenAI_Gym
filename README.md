@@ -6,6 +6,8 @@ Link : https://gym.openai.com/
 
 CartPole : https://gym.openai.com/envs/CartPole-v1/
 
+Taxi : https://gym.openai.com/envs/Taxi-v3/
+
 ## Installation
 This application uses the **OpenAI gym** API.
 ```
