@@ -1,5 +1,7 @@
 # OpenAI_Gym
 
+Both bots have been developed using reinforcement learning.
+
 "Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball."
 
 Link : https://gym.openai.com/
